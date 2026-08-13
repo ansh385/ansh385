@@ -51,3 +51,7 @@ Iam study in government polytechnic Gandhinagar <br>
 </p>
 
 
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
