@@ -35,3 +35,19 @@ Iam study in government polytechnic Gandhinagar <br>
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge\&logo=testing-library\&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge\&logo=epicgames\&logoColor=white)
 
+
+## 📫 Contact
+
+<p align="left">
+
+<a href="mailto:anshgajjar2627@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://wa.me/919106432474">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+</p>
+
+
